@@ -1,0 +1,25 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "movie listing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nav1306/MovieApp.git"
+  },
+  "keywords": [
+    "Movie"
+  ],
+  "author": "Nav Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nav1306/MovieApp/issues"
+  },
+  "homepage": "https://github.com/Nav1306/MovieApp#readme",
+  "dependencies": {
+    "axios": "^1.6.3"
+  }
+}
